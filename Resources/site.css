@@ -21623,3 +21623,8 @@ html.squarespace-cameron .yui3-lightbox2 .sqs-lightbox-overlay {
 #mainNavigation>div:nth-child(2)>a {
     display: none
 }
+
+.icon--soundcloud a {
+    background-color: #f60;
+    background-image: url('Resources/soundcloud.svg');
+}
