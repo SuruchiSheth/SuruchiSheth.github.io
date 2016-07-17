@@ -1010,8 +1010,8 @@ body>.login-wrapper.hidden {
 }
 @font-face {
     font-family: 'squarespace-ui-font';
-    src: url('//static.squarespace.com/universal/fonts/squarespace-ui-font.eot');
-    src: url('//static.squarespace.com/universal/fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.woff') format('woff'), url('//static.squarespace.com/universal/fonts/squarespace-ui-font.ttf') format('truetype');
+    src: url('fonts/squarespace-ui-font.eot');
+    src: url('fonts/squarespace-ui-font.eot?#iefix') format('embedded-opentype'), url('fonts/squarespace-ui-font.svg#squarespace-ui-font') format('svg'), url('fonts/squarespace-ui-font.woff') format('woff'), url('fonts/squarespace-ui-font.ttf') format('truetype');
     font-weight: normal;
     font-style: normal
 }
