@@ -21625,15 +21625,6 @@ html.squarespace-cameron .yui3-lightbox2 .sqs-lightbox-overlay {
     display: none
 }
 
-/* carousel height */
-.carousel {
-  height: 600px;
-}
-
-/* cell inherit height from carousel */
-.carousel-cell {
-  height: 100%;
-}
 
 
 .list-unstyled {
