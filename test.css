@@ -2,29 +2,12 @@
 
 * { box-sizing: border-box; }
 
-body { font-family: sans-serif; }
 
-.carousel {
-  background: #FAFAFA;
-  height: 100%;
+@font-face {
+    font-family: LeagueGothic-Regular;
+    src: url("fonts/LeagueGothic-Regular.otf") format("opentype");
 }
 
-.carousel-img{
-  height: 100%;
-}
-
-.carousel-cell {
-  height: 500px;
-  margin-right: 0px;
-  border-radius: 5px;
-  counter-increment: carousel-cell;
-}
-
-/* cell number */
-.carousel-cell:before {
-  display: block;
-  text-align: center;
-  line-height: 200px;
-  font-size: 80px;
-  color: white;
+body{
+    font-family: LeagueGothic-Regular;
 }
