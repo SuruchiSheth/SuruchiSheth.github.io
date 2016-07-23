@@ -19033,7 +19033,7 @@ body:not(.always-use-overlay-nav) .nav-wrapper nav span>div>a,
 body:not(.always-use-overlay-nav) .nav-wrapper nav>div label,
 body:not(.always-use-overlay-nav) .nav-wrapper nav span>div label {
     display: block;
-    padding: .75em 1em
+    padding: .75em .7em
 }
 body:not(.always-use-overlay-nav) #secondaryNavWrapper.nav-wrapper .folder .subnav {
     top: auto;
